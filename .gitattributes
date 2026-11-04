@@ -1,0 +1,2 @@
+# Preserve the exact bytes covered by parts.sha256; avoid expensive text diffs.
+parts/* -text -diff -delta
