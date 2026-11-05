@@ -1,0 +1,4 @@
+9918d8c7fe3bd0f9543f9e71ca4687abfa1f2182  ./plain/ttt-3-5-3.cnf
+4ef57ccc099e346a3043afa7fb473e6d69bc607c  ./plain/ttt-3-5-5.cnf
+6e77924d7f37e334d32cf7648b621ff31e6dea52  ./plain/ttt-4-4-2.cnf
+5b580300a932fb51ad41febe8bc8c97b0b208f92  ./plain/ttt-4-4-3.cnf

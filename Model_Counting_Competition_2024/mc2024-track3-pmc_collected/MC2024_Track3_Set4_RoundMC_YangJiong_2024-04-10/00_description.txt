@@ -1,0 +1,1 @@
+Collected model counting problems used in the paper Rounding meets approximate model counting (CAV '23)
