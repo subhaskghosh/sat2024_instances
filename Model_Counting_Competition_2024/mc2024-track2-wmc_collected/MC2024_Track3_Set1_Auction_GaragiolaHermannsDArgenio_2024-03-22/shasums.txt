@@ -1,0 +1,10 @@
+8c0b31898fcbbe1bb118df79bc2200efeb58aa49  ./plain/track10.cnf
+3ee6e856c2690bcdad5dc78bf9b9abe0cfd90be1  ./plain/track1.cnf
+afc9c926e43192017470ecdaa111226ad231a242  ./plain/track2.cnf
+9db5dde2e3454ff17bab3c5feb189d32bc2ac8a2  ./plain/track3.cnf
+41457666f0762b5529fe2e6355290cc5518923ca  ./plain/track4.cnf
+b4a9b63e285cd309eb4b28473b528485fc4000b6  ./plain/track5.cnf
+35b9bee70fa6ac1699968702e7afa24ea98f37a5  ./plain/track6.cnf
+a4f99583496abf00368ca621497d50d43f91b626  ./plain/track7.cnf
+4ab7db422cc6da2c2d3b0e2e6c5e602a4c7c40db  ./plain/track8.cnf
+25fcda25f36a2bb92de7ab44634d2cf2254c5808  ./plain/track9.cnf

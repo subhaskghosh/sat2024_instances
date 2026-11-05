@@ -1,2 +1,4 @@
 # Preserve the exact bytes covered by parts.sha256; avoid expensive text diffs.
 parts/* -text -diff -delta
+# Preserve compressed benchmark bytes and skip ineffective delta searches.
+Model_Counting_Competition_2024/**/*.xz -text -diff -delta

@@ -1,0 +1,3 @@
+The benchmark instances encode the network reliability estimation problem; a detailed discussion can be found here [1].
+
+[1] Mohimenul Kabir and Kuldeep S. Meel. "A Fast and Accurate ASP Counting Based Network Reliability Estimator." In LPAR, pp. 270-287. 2023.
